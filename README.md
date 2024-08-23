@@ -24,6 +24,7 @@
 <p>Aplicación móvil para la gestión de lotes.</p>
 </div>
 </td>
+<hr>
 <td width="50%">
 <h3 align="center">Proyecto de Bolsa de Trabajo Informal</h3>
 <div align="center">                                       
