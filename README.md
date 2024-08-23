@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola!!,  Bienvenidos a mi perfil de GitHub, Mi nombre es Santiago Pererz 👋</h1>
+<h1 align="center">Hola!!,  Bienvenidos a mi perfil de GitHub, Mi nombre es Santiago Perez 👋</h1>
 </div>
 
 <img src="./programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
