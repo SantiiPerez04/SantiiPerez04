@@ -4,7 +4,8 @@
 
 <img src="./programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
 
-[![GitHub followers](https://img.shields.io/github/followers/Lucas-almada015?style=social)](https://github.com/Lucas-almada015)
+<h1 align="center"> 👋</h1>
+
 
 ## Sobre mí persona
 
