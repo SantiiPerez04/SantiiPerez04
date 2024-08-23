@@ -8,11 +8,11 @@
 
 ## Sobre mí persona
 
-- Desarrollador Web FrontEnd.
-- En la actualidad estoy terminando mis estudios para recibirme en la tecnicatura de desarrollo de software.
-- Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
-- Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
-- Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
+- 🔥 Desarrollador Web FrontEnd.
+- 🚀 En la actualidad estoy terminando mis estudios para recibirme en la tecnicatura de desarrollo de software.
+- 🚀 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
+- 🚀 Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
+- 🚀 Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
 
 <br>
 
@@ -34,4 +34,3 @@
 </div>                                                             
 </td>
 <br>
-
