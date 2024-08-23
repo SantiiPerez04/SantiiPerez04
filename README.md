@@ -8,11 +8,10 @@
 
 ## Sobre mí
 
-- 📱 Desarrollador de aplicaciones móviles.
+- 📱 Desarrollador Web.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
-- 💼 Tengo experiencia en desarrollo de aplicaciones Android y en la implementación de bases de datos en Firebase.
-- 🌐 Puedes ver mi currículum [aquí](https://lucas-almada015.github.io/LucasAlmadaCV/).
-- 📫 Puedes contactarme en mi [perfil de LinkedIn](https://www.linkedin.com/in/lucas-almada-a2271a237/).
+- 💼 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
+- 🌐 Mi currículum [aquí](https://lucas-almada015.github.io/LucasAlmadaCV/).
 
 <br>
 
@@ -28,7 +27,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación móvil para la gestión de lotes, incluyendo la integración con Firebase para almacenamiento de datos y autenticación.</p>
+<p>Aplicación móvil para la gestión de lotes.</p>
 </div>
 </td>
 
@@ -42,7 +41,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación web que utiliza PHP para lograr una bolsa de trabajo informal.</p>
+<p>Aplicación web para lograr una bolsa de trabajo informal.</p>
 </div>                                                             
 </td>
 </tr>
