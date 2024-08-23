@@ -22,11 +22,6 @@
 <h3 align="center">Proyecto de App de Gestión de Lotes</h3>
 <div align="center">
 <a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank"><img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes"></a>
-<p>
-<a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
 <p>Aplicación móvil para la gestión de lotes.</p>
 </div>
 </td>
@@ -36,11 +31,6 @@
 <div align="center">                                       
 <a href="https://github.com/Lucas-almada015/ESLA" target="_blank"><img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal "></a>
 <br>
-<p>
-<a href="https://github.com/Lucas-almada015/ESLA" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
 <p>Aplicación web para lograr una bolsa de trabajo informal.</p>
 </div>                                                             
 </td>
