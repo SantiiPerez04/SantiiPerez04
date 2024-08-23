@@ -6,17 +6,17 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Lucas-almada015?style=social)](https://github.com/Lucas-almada015)
 
-## Sobre mí
+## Sobre mí persona
 
 - 📱 Desarrollador Web.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
-- 🌐 Mi currículum [aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
-- 🌐 Mi Instagram [aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
+- 🌐 Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
+- 🌐 Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
 
 <br>
 
-## Proyectos Destacados
+## Proyectos
 <table>
 <tr>
 <td width="50%">
