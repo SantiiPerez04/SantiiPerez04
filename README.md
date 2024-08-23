@@ -11,7 +11,7 @@
 - 📱 Desarrollador Web.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
-- 🌐 Mi currículum [aquí](https://lucas-almada015.github.io/LucasAlmadaCV/).
+- 🌐 Mi currículum [aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
 
 <br>
 
