@@ -12,6 +12,7 @@
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
 - 🌐 Mi currículum [aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
+- 🌐 Mi Instagram [aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
 
 <br>
 
@@ -21,14 +22,14 @@
 <td width="50%">
 <h3 align="center">Proyecto de App de Gestión de Lotes</h3>
 <div align="center">
-<a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank"><img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes"></a>
+<img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes">
 <p>Aplicación móvil para la gestión de lotes.</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">Proyecto de Bolsa de Trabajo Informal</h3>
 <div align="center">                                       
-<a href="https://github.com/Lucas-almada015/ESLA" target="_blank"><img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal "></a>
+<img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal ">
 <br>
 <p>Aplicación web para lograr una bolsa de trabajo informal.</p>
 </div>                                                             
