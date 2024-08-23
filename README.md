@@ -11,9 +11,9 @@
 - 🔥 Desarrollador Web FrontEnd.
 - 🚀 En la actualidad estoy terminando mis estudios para recibirme en la tecnicatura de desarrollo de software.
 - 🚀 Tengo experiencia en desarrollo web FrontEnd con lenguajes como HTML, CSS y JAVASCRIPT.
-<img src="./html.webp" width="400" alt="App de Bolsa de Trabajo Informal ">
-<img src="./css.png" width="400" alt="App de Bolsa de Trabajo Informal ">
-<img src="./js.png" width="400" alt="App de Bolsa de Trabajo Informal ">
+<img src="./html.webp" width="100" alt="App de Bolsa de Trabajo Informal ">
+<img src="./css.png" width="100" alt="App de Bolsa de Trabajo Informal ">
+<img src="./js.png" width="100" alt="App de Bolsa de Trabajo Informal ">
 - 🚀 Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).
 - 🚀 Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
 
