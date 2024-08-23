@@ -4,7 +4,6 @@
 
 <img src="./programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
 
-<h1 align="center"> 👋</h1>
 
 
 ## Sobre mí persona
