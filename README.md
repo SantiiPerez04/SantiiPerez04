@@ -18,14 +18,14 @@
 ## Proyectos Destacados
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center">Proyecto de App de Gestión de Lotes</h3>
 <div align="center">
 <a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank"><img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes"></a>
 <p>Aplicación móvil para la gestión de lotes.</p>
 </div>
 </td>
-<td width="100%">
+<td width="50%">
 <h3 align="center">Proyecto de Bolsa de Trabajo Informal</h3>
 <div align="center">                                       
 <a href="https://github.com/Lucas-almada015/ESLA" target="_blank"><img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal "></a>
