@@ -16,6 +16,7 @@
 <img src="./css.png" width="100"  alt="App de Bolsa de Trabajo Informal ">
 <img src="./js.png" width="100"  alt="App de Bolsa de Trabajo Informal ">
 </div>
+
 - 🚀 Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).<br>
 - 🚀 Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
 - 🚀 Mi Linkedin [Por aquí]([https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==](https://www.linkedin.com/in/santiago-pérez-098020325/).
