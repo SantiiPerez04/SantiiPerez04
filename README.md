@@ -19,7 +19,7 @@
 
 - 🚀 Mi currículum [Por aquí](https://drive.google.com/file/d/11p2pGKTjphtzO26lYhp0pmE33vN5tLq0/view?usp=sharing).<br>
 - 🚀 Mi Instagram [Por aquí](https://www.instagram.com/santiperez_04?igsh=MXFrNThzdHFrMWU5aw==).
-- 🚀 Mi Linkedin [Por aquí](www.linkedin.com/in/santiago-pérez-098020325).
+- 🚀 Mi Linkedin [Por aquí]([www.linkedin.com/in/santiago-pérez-098020325](https://www.linkedin.com/in/santiago-pérez-098020325/)).
 
 <br>
 
